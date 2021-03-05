@@ -12,7 +12,7 @@ A NodeJS / TypeScript framework to implement complex command line applications
 ## Installation
 
 ```bash
-npm install yacl
+npm install @makepad/yacl
 ```
 
 ## Creating your first CLI
