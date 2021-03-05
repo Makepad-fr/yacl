@@ -24,7 +24,7 @@ commands:
   publish-on-npm:
     description: "Publish on npm.org"
     steps:
-      - run: npm publish
+      - run: npm publish --access public
   generate-docs:
     description: "Generating TSDoc"
     steps:
