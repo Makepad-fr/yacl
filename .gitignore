@@ -1,5 +1,4 @@
-.DS_STORE
-.idea
-dist
-docs
 node_modules
+dist
+.DS_STORE
+docs
