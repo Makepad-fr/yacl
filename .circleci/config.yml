@@ -70,8 +70,6 @@ workflows:
           requires:
             - lint
           filters:
-            branches:
-               ignore: /.*/
             tags:
               only:
                 # matches stable version tags
@@ -86,8 +84,6 @@ workflows:
           requires:
             - lint
           filters:
-            branches:
-               ignore: /.*/
             tags:
               only:
                 # matches stable version tags
