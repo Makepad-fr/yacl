@@ -1,5 +1,6 @@
 {
   "name": "@makepad/yacl",
+  "private": false,
   "version": "1.0.0",
   "description": "Yet an other cli library for JavaScript command line applications",
   "main": "dist/index.js",
