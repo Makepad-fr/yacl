@@ -1,4 +1,11 @@
 # Yet Another Cli Library
+[![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts)
+<a href="https://gitmoji.dev">
+  <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
+</a>
+[![CircleCI](https://circleci.com/gh/Makepad-fr/yacl.svg?style=svg)](https://circleci.com/gh/Makepad-fr/yacl)
+
+
 
 A NodeJS / TypeScript framework to implement complex command line applications
 
